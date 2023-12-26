@@ -9,3 +9,10 @@ this is some code yes to kick you
 ```py
 print("Github is bullying students this is no longer funny pls stop 🙏")
 ```
+
+now we're supposed to make a list. to kick github in its soft underbelly
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+there you happy??
